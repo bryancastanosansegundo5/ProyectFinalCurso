@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProyectFinalVB.PrincipalAlmacen" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AcAhAAQAASCgAAIAiBiAQBiCIIQAYAgAAEAAAAAEImA=</HashCode>
+      <FileName>PrincipalAlmacen.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Almacen" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAZEUGFQiEAEAACAyvsCBmFAcB8AEIhEAGASBRA=</HashCode>
+      <FileName>Almacen.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Ventas" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IBBQIOJhEWEypsoIgAGQzH8C1CjR8h8LAplIAIgwAMQ=</HashCode>
+      <FileName>Ventas.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Clientes" Collapsed="true">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQICIAUGEQgEIIAgGEzrsCBSjQ8B8AAggQAAAgIJA=</HashCode>
+      <FileName>Clientes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Marcas" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAIAUGUQgEAEAACAyrsCAGBAcB8AEAQEAAAAARA=</HashCode>
+      <FileName>Marcas.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.PedidosProveedor" Collapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>JIBAAMJhMWEygksCjICAxDwCRDrRcL4NApFIAAgQgIA=</HashCode>
+      <FileName>PedidosProveedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.PrincipalReparacion" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcAhAAQAASCgAAIAiBiAABiCIIQAYAAAAEAAAAAEImA=</HashCode>
+      <FileName>PrinciaplReparacion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Principal" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcAhAAQAASCgAAIAiBiARDCCIISAMAgAAEAAAAAEImA=</HashCode>
+      <FileName>Principal.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.PrincipalUsuarios" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AcAhAAQAASCgAAIAiBiAADiCIIQAcAAAAEAAAAAEImA=</HashCode>
+      <FileName>PrincipalUsuarios.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Proovedor" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAISMAUOEQgEoGAACAzrsCBCjQcJ8AAAAQAEACAdA=</HashCode>
+      <FileName>Proovedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReparacionesDetalle" Collapsed="true">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IJBAAMJhsWNAkEkAqACAzP4CRiDVcA4JApFIAAoQBIA=</HashCode>
+      <FileName>ReparacionesDetalle.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReparacionesMostrador" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJBAAALAkGMwglMAqiCQzDsCECBAcD8IEAAMAAIQAAA=</HashCode>
+      <FileName>ReparacionesMostrador.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReporteClientes" Collapsed="true">
+    <Position X="1.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAAEIAAACAwDgCAAAQUAgAAAAAAAQAAAg=</HashCode>
+      <FileName>ReporteClientes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReportePedidoProveedor" Collapsed="true">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAEIAAACAAAACAAAAAJAEAAAAAAQAAAA=</HashCode>
+      <FileName>ReportePedidoProveedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReporteProveedor" Collapsed="true">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgASAAAEIAAECAQDgCAAAQUIgAAAAAAAQAAAA=</HashCode>
+      <FileName>ReporteProveedor.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReporteReparacion" Collapsed="true">
+    <Position X="8" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgSAAAEAAIACAAEACAAAAAAAAQAAAAAQAAAA=</HashCode>
+      <FileName>ReporteReparacion.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.ReporteVentas" Collapsed="true">
+    <Position X="11.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAABEAAAACgAAACAAgAAgAAAAAAAAQAAAA=</HashCode>
+      <FileName>ReporteVentas.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.Usuario" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <Members>
+      <Field Name="Button1" Hidden="true" />
+      <Method Name="Button1_Click" Hidden="true" />
+      <Field Name="Button11" Hidden="true" />
+      <Method Name="Button11_Click" Hidden="true" />
+      <Field Name="Button12" Hidden="true" />
+      <Method Name="Button12_Click" Hidden="true" />
+      <Field Name="Button2" Hidden="true" />
+      <Method Name="Button2_Click" Hidden="true" />
+      <Field Name="Button3" Hidden="true" />
+      <Method Name="Button3_Click" Hidden="true" />
+      <Field Name="Button4" Hidden="true" />
+      <Method Name="Button4_Click" Hidden="true" />
+      <Field Name="Button5" Hidden="true" />
+      <Method Name="Button5_Click" Hidden="true" />
+      <Field Name="Button6" Hidden="true" />
+      <Method Name="Button6_Click" Hidden="true" />
+      <Field Name="Button7" Hidden="true" />
+      <Method Name="Button7_Click" Hidden="true" />
+      <Field Name="Button9" Hidden="true" />
+      <Method Name="Button9_Click" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="ErrorProvider1" Hidden="true" />
+      <Field Name="GroupBox1" Hidden="true" />
+      <Field Name="IdLabel1" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="Label1" Hidden="true" />
+      <Field Name="Label2" Hidden="true" />
+      <Field Name="Label3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ABAQMCMAEWEwgEIIAgCAyrsCDShQ9B8IBggQAAAjAJA=</HashCode>
+      <FileName>Usuario.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectFinalVB.login" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAWAgAEAAAACAABgCAIIAYAAIgAAAAACAAAA=</HashCode>
+      <FileName>Login.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

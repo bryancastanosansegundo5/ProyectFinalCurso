@@ -1,0 +1,288 @@
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Permisos.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Reparaciones.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+C:\Users\Bryan\Desktop\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Permisos.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Reparaciones.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Permisos.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Reparaciones.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesDetalle.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesMostrador.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PedidosProveedor.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Principal.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PedidosProveedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Principal.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesDetalle.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesMostrador.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Clientes.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrinciaplReparacion.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalAlmacen.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalUsuarios.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.cache
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.compiled
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteReparacion.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteVentas.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteClientes.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReportePedidoProveedor.resources
+G:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteProveedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Clientes.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrinciaplReparacion.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalAlmacen.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalUsuarios.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteClientes.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReportePedidoProveedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteProveedor.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteReparacion.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteVentas.resources
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.cache
+J:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.compiled
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Clientes.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.login.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PedidosProveedor.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalReparacion.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Principal.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalAlmacen.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalUsuarios.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesDetalle.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesMostrador.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteClientes.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReportePedidoProveedor.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteProveedor.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteReparacion.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteVentas.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.cache
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.compiled
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbprojResolveAssemblyReference.cache
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Clientes.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.login.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PedidosProveedor.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalReparacion.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Principal.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalAlmacen.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalUsuarios.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesDetalle.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesMostrador.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteClientes.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReportePedidoProveedor.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteProveedor.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteReparacion.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteVentas.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.Cache
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.cache
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\RdlCompile.compiled
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.TrustInfo.xml
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.manifest
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.application
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe.manifest
+H:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.application
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.manifest
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.application
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.TrustInfo.xml
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe.manifest
+F:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.application
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal.mdf
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinal_log.ldf
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsc
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xsd
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.xss
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectoFinalDataSet.Designer.vb
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.config
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe.manifest
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.application
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.exe
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.pdb
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\ProyectFinalVB.xml
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.AssemblyReference.cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.SuggestedBindingRedirects.cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Almacen.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Clientes.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.login.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Marcas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Resources.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PedidosProveedor.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalReparacion.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Principal.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalAlmacen.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.PrincipalUsuarios.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Proovedor.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesDetalle.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReparacionesMostrador.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteClientes.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReportePedidoProveedor.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteProveedor.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteReparacion.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.ReporteVentas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Usuario.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.Ventas.resources
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.GenerateResource.cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.CoreCompileInputs.cache
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.TrustInfo.xml
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe.manifest
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.application
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.vbproj.CopyComplete
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.exe
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.xml
+D:\DAM 2\PROYECTO FINALLLLL\ProyectFinalVB Bryan Castaño San Segundo\ProyectFinalVB\obj\Debug\ProyectFinalVB.pdb

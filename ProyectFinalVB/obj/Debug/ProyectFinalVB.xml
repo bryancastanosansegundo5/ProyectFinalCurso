@@ -1,0 +1,466 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProyectFinalVB
+</name>
+</assembly>
+<members>
+<member name="T:ProyectFinalVB.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.aceptar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.add">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Almacen">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.anterior">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.botonPrincipal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.botonPrincipal1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.botonPrincipalAlmacen">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.botonPrincipalReparaciones">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.botonPrincipalVentas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.buscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.camara">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.cancelar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.check_128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Clientes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.delete_128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.editar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.guardar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.informe">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.informe2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.login">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.login2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.LogoProyectoFinal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.lupa_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Marcas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.pedidos_a_proveedores">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.primero">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Proveedores">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.RecepcionReparacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Reparaciones_a_realizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.sigueinte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.ultimo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.Usuarios_de_la_aplicacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectFinalVB.My.Resources.Resources.ventas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.MarcasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.PermisosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ReparacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleReparacionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.VentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.AlmacenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ProvedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.MarcasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.PermisosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ReparacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleReparacionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.VentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.AlmacenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ProvedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.MarcasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.PermisosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ReparacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleReparacionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.VentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.DetalleVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.AlmacenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSet.ProvedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.MarcasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.PermisosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.ReparacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.DetalleProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.DetalleReparacionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.ClientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.VentasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.DetalleVentaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.AlmacenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.ProvedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectFinalVB.ProyectoFinalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectFinalVB.ProyectoFinalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectFinalVB.ProyectoFinalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.UpdateAll(ProyectFinalVB.ProyectoFinalDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectFinalVB.ProyectoFinalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB0A33F4-90C3-4413-878C-7E4C4597A6AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProyectFinalVB.My.MyApplication</StartupObject>
+    <RootNamespace>ProyectFinalVB</RootNamespace>
+    <AssemblyName>ProyectFinalVB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>H:\DAM 2\PROYECTO FINALLLLL\PUBLICAR\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProyectFinalVB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProyectFinalVB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>0A6054D061E3EA84B2ACB62A146E99BD7B611BD6</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ProyectFinalVB_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoProyectoFinallogojpg.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Almacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Almacen.Designer.vb">
+      <DependentUpon>Almacen.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.vb">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marcas.Designer.vb">
+      <DependentUpon>Marcas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Marcas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PedidosProveedor.Designer.vb">
+      <DependentUpon>PedidosProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrinciaplReparacion.Designer.vb">
+      <DependentUpon>PrinciaplReparacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrinciaplReparacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalAlmacen.Designer.vb">
+      <DependentUpon>PrincipalAlmacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalAlmacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalUsuarios.Designer.vb">
+      <DependentUpon>PrincipalUsuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalUsuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proovedor.Designer.vb">
+      <DependentUpon>Proovedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Proovedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProyectoFinalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProyectoFinalDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="ProyectoFinalDataSet.vb">
+      <DependentUpon>ProyectoFinalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReparacionesDetalle.Designer.vb">
+      <DependentUpon>ReparacionesDetalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReparacionesDetalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReparacionesMostrador.Designer.vb">
+      <DependentUpon>ReparacionesMostrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReparacionesMostrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteClientes.Designer.vb">
+      <DependentUpon>ReporteClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportePedidoProveedor.Designer.vb">
+      <DependentUpon>ReportePedidoProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReportePedidoProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteProveedor.Designer.vb">
+      <DependentUpon>ReporteProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteReparacion.Designer.vb">
+      <DependentUpon>ReporteReparacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteReparacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteVentas.Designer.vb">
+      <DependentUpon>ReporteVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.vb">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas.Designer.vb">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Almacen.resx">
+      <DependentUpon>Almacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marcas.resx">
+      <DependentUpon>Marcas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosProveedor.resx">
+      <DependentUpon>PedidosProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrinciaplReparacion.resx">
+      <DependentUpon>PrinciaplReparacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalAlmacen.resx">
+      <DependentUpon>PrincipalAlmacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalUsuarios.resx">
+      <DependentUpon>PrincipalUsuarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proovedor.resx">
+      <DependentUpon>Proovedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReparacionesDetalle.resx">
+      <DependentUpon>ReparacionesDetalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReparacionesMostrador.resx">
+      <DependentUpon>ReparacionesMostrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosProveedor.rdlc" />
+    <EmbeddedResource Include="Reparaciones.rdlc" />
+    <EmbeddedResource Include="Clientes.rdlc" />
+    <EmbeddedResource Include="Proveedor.rdlc" />
+    <EmbeddedResource Include="ReporteClientes.resx">
+      <DependentUpon>ReporteClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportePedidoProveedor.resx">
+      <DependentUpon>ReportePedidoProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteProveedor.resx">
+      <DependentUpon>ReporteProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteReparacion.resx">
+      <DependentUpon>ReporteReparacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteVentas.resx">
+      <DependentUpon>ReporteVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.rdlc" />
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="ProyectFinalVB_ClaveTemporal.pfx" />
+    <None Include="ProyectoFinalDataSet.xsc">
+      <DependentUpon>ProyectoFinalDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ProyectoFinalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProyectoFinalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ProyectoFinalDataSet.xss">
+      <DependentUpon>ProyectoFinalDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos tabla\fondo.jpg" />
+    <None Include="iconos tabla\cancelar.png" />
+    <None Include="iconos tabla\aceptar.png" />
+    <None Include="Fondos\Usuarios de la aplicacion.jpg" />
+    <None Include="Fondos\ventas.jpg" />
+    <None Include="Fondos\Clientes.jpg" />
+    <None Include="Fondos\Proveedores.jpg" />
+    <None Include="Fondos\RecepcionReparacion.jpg" />
+    <None Include="Fondos\Reparaciones a realizar.jpg" />
+    <None Include="Fondos\Almacen.jpg" />
+    <None Include="Fondos\pedidos a proveedores.jpg" />
+    <None Include="Fondos\Marcas.jpg" />
+    <None Include="Fondos\login.jpg" />
+    <None Include="Fondos\login2.jpg" />
+    <Content Include="iconos tabla\add.png" />
+    <Content Include="iconos tabla\anterior.png" />
+    <None Include="iconos tabla\camara.png" />
+    <None Include="iconos tabla\lupa-1.png" />
+    <None Include="iconos tabla\guardar.png" />
+    <None Include="iconos tabla\buscar.png" />
+    <None Include="iconos tabla\botonPrincipal.jpg" />
+    <None Include="iconos tabla\botonPrincipalAlmacen.jpg" />
+    <None Include="iconos tabla\botonPrincipalReparaciones.jpg" />
+    <None Include="iconos tabla\botonPrincipalVentas.jpg" />
+    <Content Include="iconos tabla\check_128.png" />
+    <Content Include="iconos tabla\delete_128.png" />
+    <Content Include="iconos tabla\editar.png" />
+    <Content Include="iconos tabla\eliminar.png" />
+    <None Include="iconos tabla\informe.png" />
+    <None Include="iconos tabla\informe2.png" />
+    <Content Include="iconos tabla\primero.png" />
+    <Content Include="iconos tabla\sigueinte.png" />
+    <Content Include="iconos tabla\ultimo.png" />
+    <None Include="logo\LogoProyectoFinal.jpg" />
+    <Content Include="LogoProyectoFinallogojpg.ico" />
+    <Content Include="ProyectoFinal.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ProyectoFinal_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>ProyectoFinal.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
